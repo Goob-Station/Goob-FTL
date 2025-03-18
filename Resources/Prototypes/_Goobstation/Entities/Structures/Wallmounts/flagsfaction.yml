@@ -1,0 +1,29 @@
+- type: entity
+  parent: BaseFlag
+  id: GorlexFlag
+  name: gorlex flag
+  description: A polite galaxy is an armed galaxy.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Structures/Wallmounts/flagsfactions.rsi # Goobtier - unique sprites
+    state: gorlex_flag
+
+- type: entity
+  parent: BaseFlag
+  id: IndieFlag
+  name: indie flag
+  description: Freedom to fight, freedom to die.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Structures/Wallmounts/flagsfactions.rsi # Goobtier - unique sprites
+    state: indie_flag
+
+- type: entity
+  parent: BaseFlag
+  id: TSFFlag
+  name: tsf flag
+  description: For the Federation, I will give my life.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Structures/Wallmounts/flagsfactions.rsi # Goobtier - unique sprites
+    state: tsf_flag

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "license": "CC-BY-NC-SA-3.0",
+  "copyright": "Made by: @owe on discord",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "Indie1"
+    },
+    {
+      "name": "Indie2"
+    },
+    {
+      "name": "Indie3"
+    },
+    {
+      "name": "Indie4"
+    },
+    {
+      "name": "Indie5"
+    },
+    {
+      "name": "Indie6"
+    },
+    {
+      "name": "Indie7"
+    },
+    {
+      "name": "Indie8"
+    },
+    {
+      "name": "Indie9"
+    }
+  ]
+}

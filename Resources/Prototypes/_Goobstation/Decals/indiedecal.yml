@@ -1,0 +1,62 @@
+- type: decal
+  id: Indie1
+  tags: ["indie"]
+  sprite:
+    sprite: _Goobstation/Decals/indiedecal.rsi
+    state: Indie1
+
+- type: decal
+  id: Indie2
+  tags: ["indie"]
+  sprite:
+    sprite: _Goobstation/Decals/indiedecal.rsi
+    state: Indie2
+
+- type: decal
+  id: Indie3
+  tags: ["indie"]
+  sprite:
+    sprite: _Goobstation/Decals/indiedecal.rsi
+    state: Indie3
+
+- type: decal
+  id: Indie4
+  tags: ["indie"]
+  sprite:
+    sprite: _Goobstation/Decals/indiedecal.rsi
+    state: Indie4
+
+- type: decal
+  id: Indie5
+  tags: ["indie"]
+  sprite:
+    sprite: _Goobstation/Decals/indiedecal.rsi
+    state: Indie5
+
+- type: decal
+  id: Indie6
+  tags: ["indie"]
+  sprite:
+    sprite: _Goobstation/Decals/indiedecal.rsi
+    state: Indie6
+
+- type: decal
+  id: Indie7
+  tags: ["indie"]
+  sprite:
+    sprite: _Goobstation/Decals/indiedecal.rsi
+    state: Indie7
+
+- type: decal
+  id: Indie8
+  tags: ["indie"]
+  sprite:
+    sprite: _Goobstation/Decals/indiedecal.rsi
+    state: Indie8
+
+- type: decal
+  id: Indie9
+  tags: ["indie"]
+  sprite:
+    sprite: _Goobstation/Decals/indiedecal.rsi
+    state: Indie9

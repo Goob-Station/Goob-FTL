@@ -1,0 +1,51 @@
+# Banners
+- type: construction
+  id: BannerGorlex
+  name: gorlex banner
+  description: A banner displaying the emblem of the Gorlex Marauders.
+  graph: BannersFactionGraph
+  startNode: start
+  targetNode: BannerGorlexNode
+  category: construction-category-furniture
+  icon:
+    sprite: _Goobstation/Structures/Decoration/bannersfaction.rsi # Goobtier - unique sprites
+    state: banner_gorlex
+  objectType: Structure
+  placementMode: SnapgridCenter
+  canBuildInImpassable: false
+  conditions:
+    - !type:TileNotBlocked
+
+- type: construction
+  id: BannerIndie
+  name: indie banner
+  description: A banner displaying the emblem of The Independent Systems.
+  graph: BannersFactionGraph
+  startNode: start
+  targetNode: BannerIndieNode
+  category: construction-category-furniture
+  icon:
+    sprite: _Goobstation/Structures/Decoration/bannersfaction.rsi # Goobtier - unique sprites
+    state: banner_indie
+  objectType: Structure
+  placementMode: SnapgridCenter
+  canBuildInImpassable: false
+  conditions:
+    - !type:TileNotBlocked
+
+- type: construction
+  id: BannerTSF
+  name: tsf banner
+  description: A banner displaying the emblem of The Trans-Solar Federation.
+  graph: BannersFactionGraph
+  startNode: start
+  targetNode: BannerTSFNode
+  category: construction-category-furniture
+  icon:
+    sprite: _Goobstation/Structures/Decoration/bannersfaction.rsi
+    state: banner_TSF
+  objectType: Structure
+  placementMode: SnapgridCenter
+  canBuildInImpassable: false
+  conditions:
+    - !type:TileNotBlocked

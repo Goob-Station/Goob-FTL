@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "license": "CC-BY-NC-SA-3.0",
+  "copyright": "Made by: @owe on discord",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "gorlex_flag"
+    },
+    {
+      "name": "indie_flag"
+    },
+    {
+      "name": "tsf_flag"
+    }
+  ]
+}

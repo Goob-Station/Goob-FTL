@@ -1,0 +1,38 @@
+- type: entity
+  id: BannerGorlex
+  parent: BannerBase
+  name: gorlex banner
+  description: A banner displaying the emblem of the Gorlex Marauders.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Structures/Decoration/bannersfaction.rsi # Goobtier - unique sprites
+    state: banner_gorlex
+  - type: Construction
+    graph: BannersFactionGraph
+    node: BannerGorlexNode
+    
+- type: entity
+  id: BannerIndie
+  parent: BannerBase
+  name: indie banner
+  description: A banner displaying the emblem of The Independent Systems.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Structures/Decoration/bannersfaction.rsi # Goobtier - unique sprites
+    state: banner_indie
+  - type: Construction
+    graph: BannersFactionGraph
+    node: BannerIndieNode
+
+- type: entity
+  id: BannerTSF
+  parent: BannerBase
+  name: tsf banner
+  description: A banner displaying the emblem of The Trans-Solar Federation.
+  components:
+  - type: Sprite
+    sprite: _Goobstation/Structures/Decoration/bannersfaction.rsi
+    state: banner_TSF
+  - type: Construction
+    graph: BannersFactionGraph
+    node: BannerTSFNode

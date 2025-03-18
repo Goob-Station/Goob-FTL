@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "license": "CC-BY-NC-SA-3.0",
+  "copyright": "Made by: @owe on discord",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "Gorlex1"
+    },
+    {
+      "name": "Gorlex2"
+    },
+    {
+      "name": "Gorlex3"
+    },
+    {
+      "name": "Gorlex4"
+    },
+    {
+      "name": "Gorlex5"
+    },
+    {
+      "name": "Gorlex6"
+    },
+    {
+      "name": "Gorlex7"
+    },
+    {
+      "name": "Gorlex8"
+    },
+    {
+      "name": "Gorlex9"
+    }
+  ]
+}

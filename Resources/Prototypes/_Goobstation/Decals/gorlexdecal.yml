@@ -1,0 +1,62 @@
+- type: decal
+  id: Gorlex1
+  tags: ["gorlex"]
+  sprite:
+    sprite: _Goobstation/Decals/gorlexdecal.rsi
+    state: Gorlex1
+
+- type: decal
+  id: Gorlex2
+  tags: ["gorlex"]
+  sprite:
+    sprite: _Goobstation/Decals/gorlexdecal.rsi
+    state: Gorlex2
+
+- type: decal
+  id: Gorlex3
+  tags: ["gorlex"]
+  sprite:
+    sprite: _Goobstation/Decals/gorlexdecal.rsi
+    state: Gorlex3
+
+- type: decal
+  id: Gorlex4
+  tags: ["gorlex"]
+  sprite:
+    sprite: _Goobstation/Decals/gorlexdecal.rsi
+    state: Gorlex4
+
+- type: decal
+  id: Gorlex5
+  tags: ["gorlex"]
+  sprite:
+    sprite: _Goobstation/Decals/gorlexdecal.rsi
+    state: Gorlex5
+
+- type: decal
+  id: Gorlex6
+  tags: ["gorlex"]
+  sprite:
+    sprite: _Goobstation/Decals/gorlexdecal.rsi
+    state: Gorlex6
+
+- type: decal
+  id: Gorlex7
+  tags: ["gorlex"]
+  sprite:
+    sprite: _Goobstation/Decals/gorlexdecal.rsi
+    state: Gorlex7
+
+- type: decal
+  id: Gorlex8
+  tags: ["gorlex"]
+  sprite:
+    sprite: _Goobstation/Decals/gorlexdecal.rsi
+    state: Gorlex8
+
+- type: decal
+  id: Gorlex9
+  tags: ["gorlex"]
+  sprite:
+    sprite: _Goobstation/Decals/gorlexdecal.rsi
+    state: Gorlex9
